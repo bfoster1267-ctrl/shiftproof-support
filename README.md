@@ -1,22 +1,28 @@
 # ShiftProof Pay Tracker
 
+Know exactly what your next paycheck should be.
+
+---
+
 ## Support
 
-Thank you for using ShiftProof!
+Need help?
 
-If you need help or have questions, please contact:
+Email:
 
-**Email:** bfoster1267@gmail.com
+bfoster1267@gmail.com  
 
-Please include:
+---
+
+When contacting support, please include:
 
 - Device model
 - iOS version
 - App version
 - Description of the issue
 
-We'll get back to you as soon as possible.
-
 ---
+
+We'll respond as soon as possible.
 
 © 2026 ShiftProof
